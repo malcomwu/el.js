@@ -1,6 +1,5 @@
 # el.js
-
-A structured JavaScript library to represent and interact with HTML.
+Use simple JavaScript to write interactive HTML.
 
 ## Status
 To be build..
